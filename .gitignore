@@ -1,0 +1,29 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# Demo runtime data
+/demo-db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Office temporary files
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.xlsx
+
+*.docx
